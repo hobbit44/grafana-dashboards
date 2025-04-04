@@ -1,6 +1,6 @@
 # Grafana Dashboards
 
-This is a collection of the dashboards from kube-prometheus stack that have been converted to be compatible with the Grafana Operator.
+This is a collection of the dashboards from [kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) stack that have been converted to be compatible with the G[rafana Operator](https://github.com/grafana/grafana-operator).
 
 ### Values
 
